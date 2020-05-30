@@ -12,10 +12,7 @@ in addition to the drawing of the smallest bounding boxes in a collision,
 every shape holds it's mesh and a cube mesh that is constructed from the root of the kdtree for that shape. Every frame we will draw both meshes
 
 
-### Pictures:
-
-<a href="http://tinypic.com?ref=35i6b79" target="_blank"><img src="http://i65.tinypic.com/35i6b79.png" border="0" alt="Image and video hosting by TinyPic"></a>
-
-<a href="http://tinypic.com?ref=20fwd3k" target="_blank"><img src="http://i63.tinypic.com/20fwd3k.png" border="0" alt="Image and video hosting by TinyPic"></a>
-
-<a href="http://tinypic.com?ref=2djtqoi" target="_blank"><img src="http://i65.tinypic.com/2djtqoi.png" border="0" alt="Image and video hosting by TinyPic"></a>
+##  Images:
+<img  src="Images/CollisionDetection_1.png" width="400" >
+<img  src="Images/CollisionDetection_2.png" width="400" >
+<img  src="Images/CollisionDetection_3.png" width="400" >
