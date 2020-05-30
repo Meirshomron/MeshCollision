@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "engine3D", "engine3D\engine3D.vcxproj", "{DC64F21F-F326-4173-8867-0B89349385F3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "display", "display\display.vcxproj", "{2785AA83-C879-44C2-8189-158A8AF2525F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MeshCollision", "MeshCollision\MeshCollision.vcxproj", "{9AC22C06-C4D7-41EA-B354-904A99D659CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC64F21F-F326-4173-8867-0B89349385F3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DC64F21F-F326-4173-8867-0B89349385F3}.Debug|Win32.Build.0 = Debug|Win32
+		{DC64F21F-F326-4173-8867-0B89349385F3}.Release|Win32.ActiveCfg = Release|Win32
+		{DC64F21F-F326-4173-8867-0B89349385F3}.Release|Win32.Build.0 = Release|Win32
+		{2785AA83-C879-44C2-8189-158A8AF2525F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2785AA83-C879-44C2-8189-158A8AF2525F}.Debug|Win32.Build.0 = Debug|Win32
+		{2785AA83-C879-44C2-8189-158A8AF2525F}.Release|Win32.ActiveCfg = Release|Win32
+		{2785AA83-C879-44C2-8189-158A8AF2525F}.Release|Win32.Build.0 = Release|Win32
+		{9AC22C06-C4D7-41EA-B354-904A99D659CC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9AC22C06-C4D7-41EA-B354-904A99D659CC}.Debug|Win32.Build.0 = Debug|Win32
+		{9AC22C06-C4D7-41EA-B354-904A99D659CC}.Release|Win32.ActiveCfg = Release|Win32
+		{9AC22C06-C4D7-41EA-B354-904A99D659CC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C50F04C0-2A81-4FC0-B9F4-B7C629A591E5}
+	EndGlobalSection
+EndGlobal
