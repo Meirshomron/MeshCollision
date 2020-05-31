@@ -44,9 +44,9 @@ every shape holds it's mesh and a cube bounding mesh that is constructed from th
 
 **Q** - Exit the program.
 
-**'Z'** - Move left in the scene.
+**'Z'** - Move the camera left.
 
-**'X'** - Move right in the scene.
+**'X'** - Move the camera right.
 
 **'C'** - Zoom into the scene.
 
